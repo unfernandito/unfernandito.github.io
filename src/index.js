@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import 'bootstrap/dist/css/bootstrap.css'
+import './bootstrap-social.css'
 import App from './App'
 import registerServiceWorker from './registerServiceWorker'
 
